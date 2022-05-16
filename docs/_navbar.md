@@ -1,4 +1,4 @@
 <!-- _navbar.md -->
 
-* [En](/)
-* [中文](/zh_CN/)
+* [中文](zh_CN/)
+* [English](/)

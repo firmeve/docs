@@ -1,6 +1,6 @@
 <!-- docs/_sidebar.md -->
 
-* [FIRMEVE 是什么?](zh_CN/README.md)
+* [FIRMEVE 是什么?](zh_CN/)
 
 * 快速开始
 

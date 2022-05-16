@@ -28,22 +28,24 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/zh/collect" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/docs" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\hellocr\Documents\Docs\firmeve-docs\docs" />
+      <recent name="C:\Users\hellocr\Documents\Docs\firmeve-docs\docs\zh_CN" />
+      <recent name="C:\Users\hellocr\Documents\Docs\firmeve-docs" />
       <recent name="C:\Users\hellocr\code\php\docs\zh\collect" />
       <recent name="C:\Users\hellocr\code\php\docs\zh\content" />
-      <recent name="C:\Users\hellocr\code\php\docs\zh\quick_start" />
-      <recent name="C:\Users\hellocr\code\php\docs\en" />
-      <recent name="C:\Users\hellocr\code\php\docs\zh" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\hellocr\Documents\Docs\firmeve-docs\docs" />
       <recent name="C:\Users\hellocr\code\php\docs\zh\content" />
     </key>
   </component>
@@ -56,6 +58,7 @@
       <option name="presentableId" value="Default" />
       <updated>1652106865122</updated>
       <workItem from="1652106866788" duration="2637000" />
+      <workItem from="1652703848083" duration="2232000" />
     </task>
     <servers />
   </component>

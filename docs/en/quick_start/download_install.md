@@ -1,5 +1,7 @@
 ## Plugin download
 
+**Note: After installation, if you want to save the opened page, you need to refresh the page**
+
 ### Chrome Extension
 
 #### Chrome web store

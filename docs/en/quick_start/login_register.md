@@ -1,13 +1,12 @@
-## Register
-We must have an account before using Firmeve. Click here to register Firmeve
-**[Click Register](https://firmeve.com/register)**
+![image-20220516104611592](../../_resources/images/login.png)
 
-[![注册账户.png](../../_resources/images/register.png)](https://firmeve.com/register)
+## Account password
 
-If you already have an account, please click log in directly
+Before using Firmeve collection Before we have to have an account, **[click login/registration](https://firmeve.com/login)** Firmeve
 
-**[Click Login](https://firmeve.com/login)**
+If you do not already have an account, Firmeve will automatically register your account and send you a verification email.
 
-[![登陆账户.png](../../_resources/images/login.png)](https://firmeve.com/login)
+## Third-party Oauth login
+Currently, the `Github` account is supported for login. If your email address is the same as the `Github` email address, and the email address has been authenticated, it will be automatically bound.
 
 > Soon WeChat login will be launched!

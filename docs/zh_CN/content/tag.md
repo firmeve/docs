@@ -1,4 +1,4 @@
-## Tag管理
+## 智能 Tag
 
 ![image-20220909224402657](../../_resources/images/image-20220909224402657.png)
 

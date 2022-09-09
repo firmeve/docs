@@ -1,4 +1,4 @@
-## Tag Manage
+## AI Tag Manage
 
 ![image-20220909224402657](../../_resources/images/image-20220909224402657.png)
 

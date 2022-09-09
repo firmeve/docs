@@ -14,5 +14,8 @@
 
 * Content
 
+    * [Console](en/content/console.md)
     * [Quick Search](en/content/search.md)
     * [Calm Read](en/content/content.md)
+    
+    * [AI Tag](en/content/tag.md)

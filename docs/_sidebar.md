@@ -19,5 +19,7 @@
     * [Calm Read](en/content/content.md)
     
     * [AI Tag](en/content/tag.md)
-* [Update Record](en/update_record.md)
+* Other
+    * [Update Record](en/other/update_record.md)
+    * [Privacy agreement](https://firmeve.com/protocol)
 

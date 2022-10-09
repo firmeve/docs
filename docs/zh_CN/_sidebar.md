@@ -15,3 +15,4 @@
   * [快捷搜索](zh_CN/content/search.md)
   * [沉静阅读](zh_CN/content/content.md)
   * [智能Tag](zh_CN/content/tag.md)
+* [更新记录](zh_CN/update_record.md)

@@ -19,3 +19,5 @@
     * [Calm Read](en/content/content.md)
     
     * [AI Tag](en/content/tag.md)
+* [Update Record](en/update_record.md)
+

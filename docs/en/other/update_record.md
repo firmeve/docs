@@ -8,7 +8,7 @@
 - Add link types to favorites
 - Collection details page to add a personal donation channel (perseverance is not easy, if you think this site is helpful to you, please ask the author to drink a cup of coffee.)
 
-### 浏览器插件 0.2.1
+### Browser plugin 0.2.1
 - Adding link type collection
 - Fix known bugs
 - Click on the plugin icon to jump to the Console

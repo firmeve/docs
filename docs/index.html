@@ -36,14 +36,17 @@
 <script src="./static/docsify@4.js"></script>
 <script src="./static/search.min.js"></script>
 <script src="./static/zoom-image.min.js"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-DX0BYC1Q7Q"></script>
 <script>
-    var _hmt = _hmt || [];
-    (function() {
-        var hm = document.createElement("script");
-        hm.src = "https://hm.baidu.com/hm.js?d9b269aa60ed855dd4e3d2caf9b7a12b";
-        var s = document.getElementsByTagName("script")[0];
-        s.parentNode.insertBefore(hm, s);
-    })();
+    window.dataLayer = window.dataLayer || [];
+
+    function gtag() {
+        dataLayer.push(arguments);
+    }
+
+    gtag('js', new Date());
+
+    gtag('config', 'G-DX0BYC1Q7Q');
 </script>
 </body>
 </html>

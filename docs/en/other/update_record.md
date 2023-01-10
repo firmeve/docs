@@ -13,7 +13,7 @@
 - New interface and operation updates
 - Some bug fixed
 
-### 浏览器插件 0.3.3
+### Browser plugin 0.3.3
 - Added save type selection
 - Add Save Tag added
 - Some bug fixed

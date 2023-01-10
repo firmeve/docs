@@ -1,5 +1,23 @@
 # Update Record
 
+## 2023-01-10
+
+### Web 0.3.1
+- Fixed account invalid 500 problem
+- Support Arabic language
+
+
+## 2022-12-20
+
+### Web 0.3.0
+- New interface and operation updates
+- Some bug fixed
+
+### 浏览器插件 0.3.3
+- Added save type selection
+- Add Save Tag added
+- Some bug fixed
+
 ## 2022-10-17
 
 ### Web 0.2.1
